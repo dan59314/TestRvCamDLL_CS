@@ -49,7 +49,7 @@ RvCamDLL:
 
 
 
-RasVector Technology new product RvCamDLL
+
 
 RvCamDLL - Dedicate for semiconductor/PCB AOI / AVI / AOM...etc. applications
   Specially suitable for secondary development by programmers and tightly integrates the graphical operating interface.
