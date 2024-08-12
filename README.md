@@ -94,3 +94,5 @@ Download source code:
 	https://www.rasvector.url.tw/RvCamDLL/TestRvCamDLL_CSharp.rar
 	
 #AOI #avi #aom #ODB #gerber #Measure #CAM #CAD
+![AlphaBlend02](https://github.com/user-attachments/assets/8cb422ce-f058-4cb3-9a9f-97191848ac37)
+![Youtube PlayList](https://github.com/user-attachments/assets/f764ef41-1f76-45d4-9a8c-4c7f44c44c29)
