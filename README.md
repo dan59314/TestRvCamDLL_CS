@@ -43,3 +43,54 @@ RvCamDLL:
 
 	
 #AOI #avi #aom #ODB #gerber #Measure #CAM #CAD
+
+
+
+
+
+
+RasVector Technology new product RvCamDLL
+
+RvCamDLL - Dedicate for semiconductor/PCB AOI / AVI / AOM...etc. applications
+  Specially suitable for secondary development by programmers and tightly integrates the graphical operating interface.
+  
+Download sourceCode, compile and run the project. Read users' manual and watch video tutorials to learn.
+
+Features:
+
+
+Multiple CAD file format input
+	ODB++/TGZ, Gerber274X, NC drilling file, AutoCad DXF, IPC/356/mnf2, RVC, SSF….
+
+Multiple CAD file format output
+	Gerber274X, NC drilling file, AutoCad DXF, RVC, SSF….
+
+Supports CAD File IO and data processing plug-in development
+	External file format can be passed into the integration core through DLL functions.
+	Program developers can develop and sell plug-in DLLs for reading, storing and data processing other CAD format files.
+	Others just need to take advantage of all graphic operations, editing interface and all complete functions of the TestRvCamDLL program.
+	Developer no need to complete whole CAM program by yourself.
+
+Rendering high-resolution graphics RawData and image file output
+	Various CAD files, input resolution (mm/Pixel), converted into high-resolution image files, and returned Raw data...
+
+Complete CAM graphical operation interface and rich editing functions
+	With C# prject code, you can easilly archive your need with rich interface operations and graphic display functions.
+
+Support simultaneous reading of CAD/BMP overlay display comparison
+	After reading the CAD file and BMP drawing file, you can select the two layers to overlap and display them to check the differences.
+	BMP image file sources, such as high-resolution graphics output by CAM, or graphic data scanned by inspection equipment.
+	You can view the differences by overlapping the display.
+
+Tutorials videos:
+	https://youtube.com/playlist?list=PLZG_AEGYW1gI1W2-EWJtz_zPMyVE5gcWM&si=U78Q13A_88ohDoHH
+
+
+Download user's manual:
+	https://www.rasvector.url.tw/RvCamDLL/RvCamDLL%20%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8A.pdf
+	
+	
+Download source code:
+	https://www.rasvector.url.tw/RvCamDLL/TestRvCamDLL_CSharp.rar
+	
+#AOI #avi #aom #ODB #gerber #Measure #CAM #CAD
